@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(12, 12, 208);
+    color: azure;
+    height: 5vh;
+    position: sticky;
+    top: 0;
+    /* vw é 1% do largura do viewport "width" */
+    /* vh é 1% do altura "Height"  */
+    /* % é do elemento pai */
+}
+main{
+    background-color: yellow;
+    height: 150vh;
+}
+footer{
+    background-color: rgb(55, 55, 220);
+    height: 10vh;
+    position: static;
+}
